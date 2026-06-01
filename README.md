@@ -1,311 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,25:0d1b4b,55:1a0533,80:7209b7,100:00d4ff&height=230&section=header&text=Dhananjay%20Sah&fontSize=62&fontColor=ffffff&fontAlignY=42&stroke=00d4ff&strokeWidth=2&desc=▸%20Backend%20Developer%20·%20Django%20·%20Nepal&descSize=16&descAlignY=64&descColor=99e9f2&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:09090b,60:1e1b4b,100:4f46e5&height=195&text=Dhananjay%20Sah&fontSize=58&fontColor=ffffff&fontAlignY=70&rotate=-5&desc=Backend%20Developer%20·%20Django%20·%20Nepal&descSize=14&descAlignY=87&descColor=a5b4fc" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=580&lines=⚡+Crafting+clean+%26+scalable+REST+APIs;🔐+JWT+·+RBAC+·+Django+REST+Framework;🚀+Seeking+Backend+%2F+Django+Internship;🌱+Learning+System+Design+%26+Docker)](https://git.io/typing-svg)
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhananjay07sah@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjaysah46)
-[![Portfolio](https://img.shields.io/badge/Portfolio-c77dff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dhananjaysah.com.np)
-[![Views](https://komarev.com/ghpvc/?username=dhananjaysah46&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/dhananjaysah46)
+[![Gmail](https://img.shields.io/badge/-dhananjay07sah%40gmail.com-09090b?style=flat-square&logo=gmail&logoColor=f87171)](mailto:dhananjay07sah@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-dhananjaysah46-09090b?style=flat-square&logo=linkedin&logoColor=818cf8)](https://www.linkedin.com/in/dhananjaysah46)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/-dhananjaysah.com.np-09090b?style=flat-square&logo=google-chrome&logoColor=a5b4fc)](https://www.dhananjaysah.com.np)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=dhananjaysah46&style=flat-square&color=4f46e5&label=visits)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-<br/>
+### &nbsp;Hey, I'm Dhananjay 👋
 
-## ▸ &nbsp;WHO AM I
+I'm a backend developer from Nepal studying BCA, focused on building APIs that are clean, secure, and actually maintainable. My tool of choice is **Django + DRF** — I enjoy the challenge of getting authentication, permissions, and data flow right before a single frontend pixel is drawn.
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+Right now I'm deepening my understanding of **system design**, **PostgreSQL**, and **Docker** while actively looking for a **backend / Django internship** where I can contribute to real production systems.
 
-```python
-class Developer:
-    name      = "Dhananjay Sah"
-    role      = "Backend Developer"   # Django & DRF
-    degree    = "BCA — Bachelor of Computer Applications"
-    location  = "Nepal"
-    status    = "Open to Internships 🚀"
+> *"First solve the problem. Then write the code."*
 
-    stack     = ["Python", "Django", "DRF",
-                 "SQLite", "MySQL", "HTML/CSS"]
-    focus     = ["REST APIs", "Auth & RBAC",
-                 "Clean Architecture"]
-    learning  = ["System Design", "PostgreSQL",
-                 "Docker", "API Security"]
+---
 
-    motto     = "First solve the problem."
-              # Then write the code.
-```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<br/>
-
-```text
-💡  Problem Solver
-🔧  API Architect
-🛡️  Auth Specialist
-📐  Clean Code Writer
-🌱  Lifelong Learner
-🤝  Team Player
-```
-
-<br/>
-
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-> — Martin Fowler
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## ▸ &nbsp;TECH STACK
-
-<br/>
+### &nbsp;Stack
 
 <div align="center">
 
-**── Languages ──**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**── Backend ──**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00d4ff)
-
-**── Databases ──**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**── Frontend ──**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**── Tools ──**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,sqlite,postgres,git,github,vscode,postman&theme=dark&perline=7" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## ▸ &nbsp;CURRENTLY LEARNING
-
-<br/>
+### &nbsp;Currently Learning
 
 <div align="center">
 
-| &nbsp;🧠 &nbsp;Topic | &nbsp;📊 &nbsp;Progress | &nbsp;🔖 &nbsp;Status |
+| 🧠 Topic | 📊 Progress | Status |
 |:---|:---|:---|
-| &nbsp;System Design | &nbsp;`████████░░` &nbsp;80% | &nbsp;🔄 &nbsp;In Progress |
-| &nbsp;API Security | &nbsp;`███████░░░` &nbsp;70% | &nbsp;🔄 &nbsp;In Progress |
-| &nbsp;PostgreSQL | &nbsp;`██████░░░░` &nbsp;60% | &nbsp;🔄 &nbsp;In Progress |
-| &nbsp;Docker | &nbsp;`████░░░░░░` &nbsp;40% | &nbsp;🆕 &nbsp;Just Started |
+| System Design | `████████░░` 80% | 🔄 In Progress |
+| API Security | `███████░░░` 70% | 🔄 In Progress |
+| PostgreSQL | `██████░░░░` 60% | 🔄 In Progress |
+| Docker | `████░░░░░░` 40% | 🆕 Just Started |
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## ▸ &nbsp;FEATURED PROJECTS
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🏙️ &nbsp;[Sajha Samasya](https://github.com/dhananjaysah46/sajha-samasya-django)**
-
-![Django](https://img.shields.io/badge/Django-0d0d1a?style=flat-square&logo=django&logoColor=00d4ff)
-![DRF](https://img.shields.io/badge/DRF-0d0d1a?style=flat-square&logo=django&logoColor=c77dff)
-![Python](https://img.shields.io/badge/Python-0d0d1a?style=flat-square&logo=python&logoColor=00d4ff)
-
-Civic issue-reporting platform — citizens submit, track & manage community problems with role-based dashboards and a REST API backend.
-
-</td>
-<td width="50%" valign="top">
-
-**🎓 &nbsp;[TU Doc Assistant](https://github.com/dhananjaysah46/tu-doc-assistant-django)**
-
-![Django](https://img.shields.io/badge/Django-0d0d1a?style=flat-square&logo=django&logoColor=00d4ff)
-![DRF](https://img.shields.io/badge/DRF-0d0d1a?style=flat-square&logo=django&logoColor=c77dff)
-![Python](https://img.shields.io/badge/Python-0d0d1a?style=flat-square&logo=python&logoColor=00d4ff)
-
-Academic doc assistant for Tribhuvan University — structured Django backend for navigating official notices and university documents.
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-**💸 &nbsp;[Expense Management System](https://github.com/dhananjaysah46/expense-management-system)**
-
-![Django](https://img.shields.io/badge/Django-0d0d1a?style=flat-square&logo=django&logoColor=00d4ff)
-![DRF](https://img.shields.io/badge/DRF-0d0d1a?style=flat-square&logo=django&logoColor=c77dff)
-![SQLite](https://img.shields.io/badge/SQLite-0d0d1a?style=flat-square&logo=sqlite&logoColor=00d4ff)
-
-Expense tracker with JWT auth, admin/user role separation, and clean REST APIs — built with scalability and Django best practices in mind.
-
-</td>
-<td width="50%" valign="top">
-
-**🏪 &nbsp;[Inventory System](https://github.com/dhananjaysah46/inventory_system)**
-
-![HTML](https://img.shields.io/badge/HTML5-0d0d1a?style=flat-square&logo=html5&logoColor=ff6b9d)
-![CSS](https://img.shields.io/badge/CSS3-0d0d1a?style=flat-square&logo=css3&logoColor=00d4ff)
-![JS](https://img.shields.io/badge/JavaScript-0d0d1a?style=flat-square&logo=javascript&logoColor=c77dff)
-
-Browser-based inventory UI for tracking stock and managing items — clean frontend interface with smooth interaction design.
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-**📦 &nbsp;[Stock Management System](https://github.com/dhananjaysah46/Stock-Management-System)**
-
-![Python](https://img.shields.io/badge/Python-0d0d1a?style=flat-square&logo=python&logoColor=00d4ff)
-![CLI](https://img.shields.io/badge/CLI-0d0d1a?style=flat-square&logoColor=c77dff)
-
-Console-based inventory CLI with interactive menus and dictionary-driven CRUD — a clean showcase of core Python logic and program structure.
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 &nbsp;[Portfolio Website](https://github.com/dhananjaysah46/Portfolio-website)**
-
-![HTML](https://img.shields.io/badge/HTML5-0d0d1a?style=flat-square&logo=html5&logoColor=ff6b9d)
-![CSS](https://img.shields.io/badge/CSS3-0d0d1a?style=flat-square&logo=css3&logoColor=00d4ff)
-![JS](https://img.shields.io/badge/JavaScript-0d0d1a?style=flat-square&logo=javascript&logoColor=c77dff)
-
-Responsive personal portfolio with semantic HTML, smooth UX, and consistent branding — the public face of my skills and work.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## ▸ &nbsp;GITHUB STATS
-
-<br/>
+### &nbsp;GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhananjaysah46&show_icons=true&hide_border=true&title_color=00d4ff&icon_color=ff6b9d&text_color=ffffff&bg_color=0d0d1a&ring_color=c77dff"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjaysah46&hide_border=true&ring=00d4ff&fire=ff6b9d&currStreakLabel=00d4ff&background=0d0d1a&sideLabels=ffffff&dates=99e9f2&stroke=c77dff&currStreakNum=ffffff&sideNums=ffffff"/>
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhananjaysah46&theme=nord_dark"/>
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhananjaysah46&theme=nord_dark"/>
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhananjaysah46&theme=nord_dark"/>
 
-<br/><br/>
+<br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaysah46&layout=compact&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=0d0d1a"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhananjaysah46&theme=nord_dark"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjaysah46&hide_border=true&background=1e1b4b&ring=818cf8&fire=f87171&currStreakLabel=a5b4fc&sideLabels=ffffff&dates=94a3b8&stroke=4f46e5&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## ▸ &nbsp;TROPHIES
-
-<br/>
+### &nbsp;Projects
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=dhananjaysah46&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Sajha Samasya](https://github-readme-stats.vercel.app/api/pin/?username=dhananjaysah46&repo=sajha-samasya-django&bg_color=0f0e17&title_color=818cf8&icon_color=f87171&text_color=94a3b8&border_color=1e1b4b)](https://github.com/dhananjaysah46/sajha-samasya-django)
+&nbsp;
+[![TU Doc Assistant](https://github-readme-stats.vercel.app/api/pin/?username=dhananjaysah46&repo=tu-doc-assistant-django&bg_color=0f0e17&title_color=818cf8&icon_color=f87171&text_color=94a3b8&border_color=1e1b4b)](https://github.com/dhananjaysah46/tu-doc-assistant-django)
+
+[![Expense Management](https://github-readme-stats.vercel.app/api/pin/?username=dhananjaysah46&repo=expense-management-system&bg_color=0f0e17&title_color=818cf8&icon_color=f87171&text_color=94a3b8&border_color=1e1b4b)](https://github.com/dhananjaysah46/expense-management-system)
+&nbsp;
+[![Inventory System](https://github-readme-stats.vercel.app/api/pin/?username=dhananjaysah46&repo=inventory_system&bg_color=0f0e17&title_color=818cf8&icon_color=f87171&text_color=94a3b8&border_color=1e1b4b)](https://github.com/dhananjaysah46/inventory_system)
+
+[![Stock Management](https://github-readme-stats.vercel.app/api/pin/?username=dhananjaysah46&repo=Stock-Management-System&bg_color=0f0e17&title_color=818cf8&icon_color=f87171&text_color=94a3b8&border_color=1e1b4b)](https://github.com/dhananjaysah46/Stock-Management-System)
+&nbsp;
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=dhananjaysah46&repo=Portfolio-website&bg_color=0f0e17&title_color=818cf8&icon_color=f87171&text_color=94a3b8&border_color=1e1b4b)](https://github.com/dhananjaysah46/Portfolio-website)
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## ▸ &nbsp;CONTRIBUTION GRAPH
-
-<br/>
+### &nbsp;Contribution Snake
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhananjaysah46&bg_color=0d0d1a&color=00d4ff&line=c77dff&point=ff6b9d&area=true&area_color=1a0533&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhananjaysah46/dhananjaysah46/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhananjaysah46/dhananjaysah46/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/dhananjaysah46/dhananjaysah46/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
-<br/>
+<details>
+<summary>⚙️ Enable snake animation</summary>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+Create `.github/workflows/snake.yml` in your profile repo:
 
-<br/>
+```yaml
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: dhananjaysah46
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
-## ▸ &nbsp;DEV JOKE OF THE DAY
+</details>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d0d1a&qColor=%2300d4ff&aColor=%23ff6b9d&textColor=%23ffffff" alt="Dev Joke" width="500"/>
-
-</div>
-
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-### &nbsp;▸ &nbsp;LET'S BUILD SOMETHING TOGETHER
-
-<br/>
-
-*Open to backend internships, collaborations, and conversations about clean code.*
+**Open to backend internships · Let's build something that lasts.**
 
 <br/>
 
@@ -313,10 +146,10 @@ Responsive personal portfolio with semantic HTML, smooth UX, and consistent bran
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjaysah46)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-c77dff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dhananjaysah.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dhananjaysah.com.np)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,30:c77dff,65:1a0533,100:0d0d1a&height=150&section=footer&animation=fadeIn&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:4f46e5,40:1e1b4b,100:09090b&height=120&section=footer&reversal=true" width="100%"/>
 
 </div>

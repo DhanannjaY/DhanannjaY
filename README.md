@@ -57,14 +57,14 @@ Right now I'm deepening my understanding of **system design**, **PostgreSQL**, a
 
 <div align="center">
 
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhananjaysah46&theme=nord_dark"/>
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhananjaysah46&theme=nord_dark"/>
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhananjaysah46&theme=nord_dark"/>
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhananjay4s&theme=nord_dark"/>
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhananjay4s&theme=nord_dark"/>
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhananjay4s&theme=nord_dark"/>
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhananjaysah46&theme=nord_dark"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjaysah46&hide_border=true&background=1e1b4b&ring=818cf8&fire=f87171&currStreakLabel=a5b4fc&sideLabels=ffffff&dates=94a3b8&stroke=4f46e5&currStreakNum=ffffff&sideNums=ffffff"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhananjay4s&theme=nord_dark"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjay4s&hide_border=true&background=1e1b4b&ring=818cf8&fire=f87171&currStreakLabel=a5b4fc&sideLabels=ffffff&dates=94a3b8&stroke=4f46e5&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
@@ -76,7 +76,7 @@ Right now I'm deepening my understanding of **system design**, **PostgreSQL**, a
 <tr>
 <td width="50%" valign="top">
 
-**🏙️ [Sajha Samasya](https://github.com/dhananjaysah46/sajha-samasya-django)**
+**🏙️ [Sajha Samasya](https://github.com/dhananjay4s/sajha-samasya-django)**
 `Django` `DRF` `Python`
 
 Civic issue-reporting platform — citizens submit, track & manage community problems with role-based dashboards and a REST API backend.
@@ -84,7 +84,7 @@ Civic issue-reporting platform — citizens submit, track & manage community pro
 </td>
 <td width="50%" valign="top">
 
-**🎓 [TU Doc Assistant](https://github.com/dhananjaysah46/tu-doc-assistant-django)**
+**🎓 [TU Doc Assistant](https://github.com/dhananjay4s/tu-doc-assistant-django)**
 `Django` `DRF` `Python`
 
 Academic doc assistant for Tribhuvan University — Django backend for navigating official notices and university documents.
@@ -95,7 +95,7 @@ Academic doc assistant for Tribhuvan University — Django backend for navigatin
 <tr>
 <td width="50%" valign="top">
 
-**💸 [Expense Management](https://github.com/dhananjaysah46/expense-management-system)**
+**💸 [Expense Management](https://github.com/dhananjay4s/expense-management-system)**
 `Django` `DRF` `SQLite`
 
 Expense tracker with JWT auth, admin/user role separation, and clean REST APIs built with Django best practices.
@@ -103,7 +103,7 @@ Expense tracker with JWT auth, admin/user role separation, and clean REST APIs b
 </td>
 <td width="50%" valign="top">
 
-**🏪 [Inventory System](https://github.com/dhananjaysah46/inventory_system)**
+**🏪 [Inventory System](https://github.com/dhananjay4s/inventory_system)**
 `HTML` `CSS` `JavaScript`
 
 Browser-based inventory UI for tracking stock and managing items with smooth interaction design.
@@ -114,7 +114,7 @@ Browser-based inventory UI for tracking stock and managing items with smooth int
 <tr>
 <td width="50%" valign="top">
 
-**📦 [Stock Management System](https://github.com/dhananjaysah46/Stock-Management-System)**
+**📦 [Stock Management System](https://github.com/dhananjay4s/Stock-Management-System)**
 `Python` `CLI`
 
 Console-based inventory CLI with dictionary-driven CRUD — clean showcase of core Python logic.
@@ -122,7 +122,7 @@ Console-based inventory CLI with dictionary-driven CRUD — clean showcase of co
 </td>
 <td width="50%" valign="top">
 
-**🌐 [Portfolio Website](https://github.com/dhananjaysah46/Portfolio-website)**
+**🌐 [Portfolio Website](https://github.com/dhananjay4s/Portfolio-website)**
 `HTML` `CSS` `JavaScript`
 
 Responsive personal portfolio with semantic HTML, smooth UX, and consistent branding.
@@ -137,7 +137,7 @@ Responsive personal portfolio with semantic HTML, smooth UX, and consistent bran
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhananjaysah46&bg_color=0f0e17&color=818cf8&line=4f46e5&point=f87171&area=true&area_color=1e1b4b&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhananjay4s&bg_color=0f0e17&color=818cf8&line=4f46e5&point=f87171&area=true&area_color=1e1b4b&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

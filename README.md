@@ -1,131 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:09090b,60:1e1b4b,100:4f46e5&height=195&text=Dhananjay%20Sah&fontSize=58&fontColor=ffffff&fontAlignY=70&rotate=-5&desc=Backend%20Developer%20·%20Django%20·%20Nepal&descSize=14&descAlignY=87&descColor=a5b4fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0c0c14,50:13131f,100:1e1b4b&height=160&text=Dhananjay%20Sah&fontSize=54&fontColor=e2e8f0&fontAlignY=55&desc=Backend%20Developer%20·%20Django%20%26%20DRF%20·%20Nepal&descSize=14&descAlignY=78&descColor=94a3b8" width="100%"/>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/-dhananjay07sah%40gmail.com-09090b?style=flat-square&logo=gmail&logoColor=f87171)](mailto:dhananjay07sah@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-dhananjaysah46-09090b?style=flat-square&logo=linkedin&logoColor=818cf8)](https://www.linkedin.com/in/dhananjaysah46)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/-dhananjaysah.com.np-09090b?style=flat-square&logo=google-chrome&logoColor=a5b4fc)](https://www.dhananjaysah.com.np)
-&nbsp;
-![Views](https://komarev.com/ghpvc/?username=dhananjaysah46&style=flat-square&color=4f46e5&label=visits)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:dhananjay07sah@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/dhananjaysah46)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?logo=google-chrome&logoColor=white&style=flat-square)](https://www.dhananjaysah.com.np)&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=dhananjaysah46&style=flat-square&color=6366f1&label=visitors)
 
 </div>
 
 <br/>
 
 ---
-
-### &nbsp;Hey, I'm Dhananjay 👋
-
-I'm a backend developer from Nepal studying BCA, focused on building APIs that are clean, secure, and actually maintainable. My tool of choice is **Django + DRF** — I enjoy the challenge of getting authentication, permissions, and data flow right before a single frontend pixel is drawn.
-
-Right now I'm deepening my understanding of **system design**, **PostgreSQL**, and **Docker** while actively looking for a **backend / Django internship** where I can contribute to real production systems.
-
-> *"First solve the problem. Then write the code."*
-
----
-
-### &nbsp;Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,sqlite,postgres,git,github,vscode,postman&theme=dark&perline=7" />
-
-</div>
-
----
-
-### &nbsp;Currently Learning
-
-<div align="center">
-
-| 🧠 Topic | 📊 Progress | Status |
-|:---|:---|:---|
-| System Design | `████████░░` 80% | 🔄 In Progress |
-| API Security | `███████░░░` 70% | 🔄 In Progress |
-| PostgreSQL | `██████░░░░` 60% | 🔄 In Progress |
-| Docker | `████░░░░░░` 40% | 🆕 Just Started |
-
-</div>
-
----
-
-### &nbsp;GitHub Activity
-
-<div align="center">
-
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhananjay4s&theme=nord_dark"/>
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhananjay4s&theme=nord_dark"/>
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhananjay4s&theme=nord_dark"/>
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhananjay4s&theme=nord_dark"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjay4s&hide_border=true&background=1e1b4b&ring=818cf8&fire=f87171&currStreakLabel=a5b4fc&sideLabels=ffffff&dates=94a3b8&stroke=4f46e5&currStreakNum=ffffff&sideNums=ffffff"/>
-
-</div>
-
----
-
-### &nbsp;Projects
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-**🏙️ [Sajha Samasya](https://github.com/dhananjay4s/sajha-samasya-django)**
-`Django` `DRF` `Python`
+### Hey, I'm Dhananjay 👋
 
-Civic issue-reporting platform — citizens submit, track & manage community problems with role-based dashboards and a REST API backend.
+I'm a backend developer from Nepal, currently pursuing my BCA degree. I build APIs that are **clean, secure, and maintainable** — my focus is always on getting the architecture right before anything else touches it.
 
-</td>
-<td width="50%" valign="top">
+My tool of choice is **Django + DRF**. I genuinely enjoy the problem-solving side of backend work — authentication flows, permission systems, data modelling — the parts that hold everything else together.
 
-**🎓 [TU Doc Assistant](https://github.com/dhananjay4s/tu-doc-assistant-django)**
-`Django` `DRF` `Python`
+I'm currently learning **system design**, **PostgreSQL**, and **Docker**, and actively looking for a **backend internship** to work on real production systems.
 
-Academic doc assistant for Tribhuvan University — Django backend for navigating official notices and university documents.
+> *"First solve the problem. Then write the code."*
 
 </td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top" align="right">
 
-**💸 [Expense Management](https://github.com/dhananjay4s/expense-management-system)**
-`Django` `DRF` `SQLite`
+<br/><br/>
 
-Expense tracker with JWT auth, admin/user role separation, and clean REST APIs built with Django best practices.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-**🏪 [Inventory System](https://github.com/dhananjay4s/inventory_system)**
-`HTML` `CSS` `JavaScript`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Browser-based inventory UI for tracking stock and managing items with smooth interaction design.
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="50%" valign="top">
-
-**📦 [Stock Management System](https://github.com/dhananjay4s/Stock-Management-System)**
-`Python` `CLI`
-
-Console-based inventory CLI with dictionary-driven CRUD — clean showcase of core Python logic.
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 [Portfolio Website](https://github.com/dhananjay4s/Portfolio-website)**
-`HTML` `CSS` `JavaScript`
-
-Responsive personal portfolio with semantic HTML, smooth UX, and consistent branding.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </td>
 </tr>
@@ -133,11 +59,100 @@ Responsive personal portfolio with semantic HTML, smooth UX, and consistent bran
 
 ---
 
-### &nbsp;Contribution Graph
+### 📈 &nbsp;Currently Learning
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhananjay4s&bg_color=0f0e17&color=818cf8&line=4f46e5&point=f87171&area=true&area_color=1e1b4b&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| Topic | Progress | Status |
+|:------|:---------|:-------|
+| System Design | `████████░░` 80% | 🔄 In Progress |
+| API Security   | `███████░░░` 70% | 🔄 In Progress |
+| PostgreSQL     | `██████░░░░` 60% | 🔄 In Progress |
+| Docker         | `████░░░░░░` 40% | 🆕 Started |
+
+</div>
+
+---
+
+### 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhananjaysah46&theme=transparent"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhananjaysah46&theme=transparent"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhananjaysah46&theme=transparent"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhananjaysah46&theme=transparent"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjaysah46&hide_border=true&background=0c0c14&ring=6366f1&fire=f43f5e&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&stroke=1e1b4b&currStreakNum=ffffff&sideNums=ffffff"/>
+
+</div>
+
+---
+
+### 🚀 &nbsp;Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[🏙️ Sajha Samasya](https://github.com/DhanannjaY/sajha-samasya-django)**
+`Django` · `DRF` · `Python`
+<br/>Civic issue-reporting platform — citizens submit, track and manage local community problems via role-based dashboards and a REST API.
+
+</td>
+<td width="50%" valign="top">
+
+**[🎓 TU Doc Assistant](https://github.com/DhanannjaY/tu-doc-assistant-django)**
+`Django` · `DRF` · `Python`
+<br/>Academic document assistant for Tribhuvan University — structured Django backend for browsing official notices and university documents.
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+**[💸 Expense Management](https://github.com/DhanannjaY/expense-management-system)**
+`Django` · `DRF` · `SQLite`
+<br/>Expense tracker with JWT auth, admin/user role separation and clean REST APIs built to Django best practices.
+
+</td>
+<td width="50%" valign="top">
+
+**[🏪 Inventory System](https://github.com/DhanannjaY/inventory_system)**
+`HTML` · `CSS` · `JavaScript`
+<br/>Browser-based inventory UI for tracking stock and managing items — clean interface with smooth interaction design.
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+**[📦 Stock Management](https://github.com/DhanannjaY/Stock-Management-System)**
+`Python` · `CLI`
+<br/>Console-based inventory system with dictionary-driven CRUD — a clean showcase of structured Python logic.
+
+</td>
+<td width="50%" valign="top">
+
+**[🌐 Portfolio Website](https://github.com/DhanannjaY/Portfolio-website)**
+`HTML` · `CSS` · `JavaScript`
+<br/>Responsive personal portfolio with semantic HTML, smooth UX and consistent branding.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🗓️ &nbsp;Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhananjaysah46&bg_color=0c0c14&color=a78bfa&line=6366f1&point=f43f5e&area=true&area_color=1e1b4b&hide_border=true&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -147,18 +162,16 @@ Responsive personal portfolio with semantic HTML, smooth UX, and consistent bran
 
 <br/>
 
-**Open to backend internships · Let's build something that lasts.**
+*Open to backend internships · collaborations · conversations about clean code*
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhananjay07sah@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjaysah46)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dhananjaysah.com.np)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhananjay07sah@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay4s)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dhananjaysah.com.np)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:4f46e5,40:1e1b4b,100:09090b&height=120&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,50:13131f,100:0c0c14&height=100&section=footer&reversal=true" width="100%"/>
 
 </div>

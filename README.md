@@ -5,9 +5,9 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:dhananjay07sah@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/dhananjaysah46)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/dhananjay4s)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?logo=google-chrome&logoColor=white&style=flat-square)](https://www.dhananjaysah.com.np)&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=dhananjaysah46&style=flat-square&color=6366f1&label=visitors)
+![Visitors](https://komarev.com/ghpvc/?username=DhanannjaY&style=flat-square&color=6366f1&label=visitors)
 
 </div>
 
@@ -78,14 +78,14 @@ I'm currently learning **system design**, **PostgreSQL**, and **Docker**, and ac
 
 <div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhananjaysah46&theme=transparent"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhananjaysah46&theme=transparent"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhananjaysah46&theme=transparent"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhanannjaY&theme=transparent"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhanannjaY&theme=transparent"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhanannjaY&theme=transparent"/>
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhananjaysah46&theme=transparent"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjaysah46&hide_border=true&background=0c0c14&ring=6366f1&fire=f43f5e&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&stroke=1e1b4b&currStreakNum=ffffff&sideNums=ffffff"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhanannjaY&theme=transparent"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhanannjaY&hide_border=true&background=0c0c14&ring=6366f1&fire=f43f5e&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&stroke=1e1b4b&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
@@ -152,7 +152,7 @@ I'm currently learning **system design**, **PostgreSQL**, and **Docker**, and ac
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhananjaysah46&bg_color=0c0c14&color=a78bfa&line=6366f1&point=f43f5e&area=true&area_color=1e1b4b&hide_border=true&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanannjaY&bg_color=0c0c14&color=a78bfa&line=6366f1&point=f43f5e&area=true&area_color=1e1b4b&hide_border=true&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
